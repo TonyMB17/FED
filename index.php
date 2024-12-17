@@ -89,7 +89,7 @@
           </div>
           <div class="col-sm-12 col-md-6 d-none d-md-block">
             <div class="hero-image">
-              <img style="height: 30rem" src="img/hero.png" alt="Hero Image" />
+              <img src="img/hero.png" alt="Hero Image" />
             </div>
           </div>
         </div>
@@ -270,10 +270,9 @@
               <div class="blog-text">
                 <h2>SALUD</h2>
                 <p>
-                  Lorem ipsum dolor sit amet elit. Nullam commodo mattis mi.
-                  Nullam eu erat lectus. Proin viverra risus vitae luctus. Proin
-                  ut ante, vitae sapien. Fusce sem ac erat rhoncus, ornare
-                  mattis nisl massa et eros vitae pulvin
+                Los indicadores en esta categoría se enfocan en la detección, atención y prevención de enfermedades y condiciones de salud prioritarias. 
+                Buscan medir la capacidad de los establecimientos de salud para identificar problemas de salud, 
+                así como brindar servicios de diagnóstico temprano, tratamiento oportuno y programas de promoción de la salud para mejorar la calidad de vida de la población.
                 </p>
                 <!-- <a class="btn" href=""
                   >Ver Más <i class="fa fa-angle-right"></i
@@ -304,7 +303,7 @@
           <div class="col-lg-6">
             <div class="blog-item wow fadeInUp" data-wow-delay="0.1s">
               <div class="blog-img">
-                <img src="img/agua-2.jpg" alt="Blog" />
+                <img src="img/about-2.jpeg" alt="Blog" />
               </div>
               <div class="blog-text">
                 <h2>AGUA</h2>
@@ -437,7 +436,7 @@
                 <div class="price-action">
                   <a
                     class="btn"
-                    href="https://app.powerbi.com/view?r=eyJrIjoiMGRiYzlhYjUtY2E3Ni00Y2ZjLThmZWYtYmFjYmVkNjNhYTU5IiwidCI6IjI1MDI3ZTIzLWEyNmUtNDNiMC1hMGYwLWRjNWI2MTI3Yzg5ZCIsImMiOjR9&pageName=3196ab099c006c8b65d9"
+                    href="https://app.powerbi.com/view?r=eyJrIjoiN2Q3NWQ1NjUtOWZmYy00ZmE0LThjMGUtYjVjNjI5ZTE3MGE4IiwidCI6IjI1MDI3ZTIzLWEyNmUtNDNiMC1hMGYwLWRjNWI2MTI3Yzg5ZCIsImMiOjR9&pageName=3196ab099c006c8b65d9"
                     target="_blank"><img src="img/icons8-power-bi-2021-48.png" alt="" /> Ver
                     Reporte</a
                   >
@@ -474,79 +473,95 @@
     </div>
     <!-- Price End -->
 
-    <!-- Contact Start -->
-    <!-- <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-      <h2>Solicitar reporte</h2>
-    </div>
-    <div class="contact wow fadeInUp" data-wow-delay="0.1s" id="contact">
-      <div class="container-fluid">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-4"></div>
-            <div class="col-md-8">
-              <div class="contact-form">
-                <div id="success"></div>
-                <form
-                  name="sentMessage"
-                  id="contactForm"
-                  novalidate="novalidate"
-                >
-                  <div class="control-group">
-                    <input
-                      type="text"
-                      class="form-control"
-                      id="name"
-                      placeholder="Nombre Completo"
-                      required="required"
-                      data-validation-required-message="Po favor ingrese su nombre"
-                    />
-                    <p class="help-block"></p>
-                  </div>
-                  <div class="control-group">
-                    <input
-                      type="email"
-                      class="form-control"
-                      id="email"
-                      placeholder="Correo Electronico"
-                      required="required"
-                      data-validation-required-message="Por favor ingrese su correo electronico"
-                    />
-                    <p class="help-block"></p>
-                  </div>
-                  <div class="control-group">
-                    <input
-                      type="text"
-                      class="form-control"
-                      id="subject"
-                      placeholder="Asunto"
-                      required="required"
-                      data-validation-required-message="Por favor ingrese el asunto del mensaje"
-                    />
-                    <p class="help-block"></p>
-                  </div>
-                  <div class="control-group">
-                    <textarea
-                      class="form-control"
-                      id="message"
-                      placeholder="Mensaje"
-                      required="required"
-                      data-validation-required-message="Please ingrese su mensaje"
-                    ></textarea>
-                    <p class="help-block"></p>
-                  </div>
-                  <div>
-                    <button class="btn" type="submit" id="sendMessageButton">
-                      Enviar
-                    </button>
-                  </div>
-                </form>
+    <!-- Price Start -->
+    <div class="price" id="review">
+      <div class="container">
+        <div
+          class="section-header text-center wow zoomIn"
+          data-wow-delay="0.1s">
+          <h2>Temas adicionales de interés</h2>
+        </div>
+        <div class="row">          
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.0s" style="height: 20rem; padding: 5px;">
+            <div class="price-item featured-item">
+              <div class="price-header">
+                <div class="price-title">
+                  <h2></h2>
+                </div>
+              </div>
+              <div class="price-body" style="margin-right: 15px">
+                <div class="price-description">
+                  <h4>Estrategia Regional</h4>
+                  <br>
+                  <h2>
+                    Mi Cole con Agua Segura
+                  </h2>
+                </div>
+              </div>
+              <div class="price-footer">
+                <div class="price-action">
+                  <a class="btn"
+                    href="https://app5.regionapurimac.gob.pe/mi-cole/public/index/home"
+                    target="_blank"><img src="img/web.png" alt="" style="height: 40px;"/> Ver Reporte</a>                    
+                </div>
               </div>
             </div>
           </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.0s" style="padding: 5px;">
+            <div class="price-item featured-item">
+              <div class="price-header">
+                <div class="price-title">
+                  <h2></h2>
+                </div>
+              </div>
+              <div class="price-body" style="margin-right: 15px">
+                <div class="price-description">
+                <h4>Estrategia Regional</h4>
+                <br>
+                  <h2>
+                    SUMAQ KAUSANAPAQ
+                  </h2>
+                </div>
+              </div>
+              <div class="price-footer">
+                <div class="price-action">
+                  <a
+                    class="btn"
+                    href="https://app.powerbi.com/view?r=eyJrIjoiNTYxNjQxNjItYmQxMC00ZDJiLWEzNWMtOTQwYmRmNjVkZmExIiwidCI6IjI1MDI3ZTIzLWEyNmUtNDNiMC1hMGYwLWRjNWI2MTI3Yzg5ZCIsImMiOjR9"
+                    target="_blank"><img src="img/icons8-power-bi-2021-48.png" alt="" /> Visitar Página</a>                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.0s" style="padding: 5px;">
+            <div class="price-item featured-item">
+              <div class="price-header">
+                <div class="price-title">
+                  <h2></h2>
+                </div>
+              </div>
+              <div class="price-body" style="margin-right: 15px">
+                <div class="price-description">
+                  <h2 style="font-size: 23px;">
+                  Observatorio Regional Apurímac de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar
+                  </h2>
+                </div>
+              </div>
+              <div class="price-footer">
+                <div class="price-action">
+                  <a
+                    class="btn"
+                    href="https://app2.regionapurimac.gob.pe/observatorioviolencia/"
+                    target="_blank"><img src="img/web.png" alt="" style="height: 40px;"/> Visitar Página</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>          
         </div>
       </div>
-    </div> -->
-    <!-- Contact End -->
+    </div>
+    <!-- Price End -->
 
     <!-- Footer Start -->
     <div class="footer wow fadeIn" data-wow-delay="0.3s">
