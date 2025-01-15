@@ -375,7 +375,7 @@
             data-wow-delay="0.1s"
           >
             <div class="timeline-text">
-              <div class="timeline-date">01/02/2025 hasta 30/06/2025</div>
+              <div class="timeline-date">01/01/2025 hasta 30/06/2025</div>
               <h2>Segunda verificación</h2>
               <h4>Salud y reducción de violencia contra la mujer</h4>
             </div>
