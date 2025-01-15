@@ -502,7 +502,7 @@
                 <div class="price-action">
                   <a class="btn"
                     href="https://app5.regionapurimac.gob.pe/mi-cole/public/index/home"
-                    target="_blank"><img src="img/icons8-power-bi-2021-48.png" alt="" /> Visitar Página</a>                     
+                    target="_blank"><img src="img/web.png" alt="" style="height: 40px;"/>Visitar Página</a>                     
                 </div>
               </div>
             </div>
@@ -528,7 +528,7 @@
                   <a
                     class="btn"
                     href="https://app.powerbi.com/view?r=eyJrIjoiNTYxNjQxNjItYmQxMC00ZDJiLWEzNWMtOTQwYmRmNjVkZmExIiwidCI6IjI1MDI3ZTIzLWEyNmUtNDNiMC1hMGYwLWRjNWI2MTI3Yzg5ZCIsImMiOjR9"
-                    target="_blank"><img src="img/web.png" alt="" style="height: 40px;"/> Ver Reporte</a>                 
+                    target="_blank"><img src="img/icons8-power-bi-2021-48.png" alt="" />Ver Reporte</a>                 
                 </div>
               </div>
             </div>
